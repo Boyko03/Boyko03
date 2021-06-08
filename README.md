@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - Game Development 🎮
 
 ### What I'm most proud of
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Boyko03&repo=guitar_project&theme=chartreuse-dark)](https://github.com/Boyko03/guitar_project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Boyko03&repo=guitar-master&theme=chartreuse-dark)](https://github.com/Boyko03/guitar_project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BoyanPavlov03&repo=Survival-Game&theme=chartreuse-dark)](https://github.com/BoyanPavlov03/Survival-Game)
 
 ### Stats
