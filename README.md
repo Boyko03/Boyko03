@@ -8,8 +8,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ... 
 -->
-- 🔭 I’m currently working on my [course work](https://github.com/Boyko03/guitar_project), a tool which helps you learn to play the guitar
-- 🌱 I’m currently learning Flutter and Java
+- 🔭 I’m currently working on my diploma work
+- 🎸 I finished my [course work](https://github.com/Boyko03/guitar_project), a tool which helps you learn to play the guitar
+- 🌱 I’m currently learning Unreal Engine
 - 💬 Ask me about anything you're interested in
 - 📫 How to reach me: [Boyko Georgiev](https://www.linkedin.com/in/boyko-georgiev/)
 - ⚡ Fun fact: I play electric bass
