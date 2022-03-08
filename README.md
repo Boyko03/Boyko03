@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ... 
 -->
-- 🔭 I’m currently working on my diploma work
+- 🔭 I’m currently working on my [diploma work](https://github.com/Boyko03/snow)
 - 🎸 I finished my [course work](https://github.com/Boyko03/guitar_project), a tool which helps you learn to play the guitar
-- 🌱 I’m currently learning Unreal Engine
+- 🌱 I’m currently learning Unreal Engine 4
 - 💬 Ask me about anything you're interested in
 - 📫 How to reach me: [Boyko Georgiev](https://www.linkedin.com/in/boyko-georgiev/)
 - ⚡ Fun fact: I play electric bass
@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - Game Development 🎮
 
 ### What I'm most proud of
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Boyko03&repo=snow&theme=chartreuse-dark)](https://github.com/Boyko03/snow)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Boyko03&repo=guitar-master&theme=chartreuse-dark)](https://github.com/Boyko03/guitar_project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BoyanPavlov03&repo=Survival-Game&theme=chartreuse-dark)](https://github.com/BoyanPavlov03/Survival-Game)
 
