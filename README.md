@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I am Boyko Georgiev, a student at Breda University of Applied Sciences with a focus on gameplay and tools programming. I enjoy creating systems that enhance gameplay experiences and building tools to streamline game development. With a strong foundation in game programming principles, I’m passionate about solving technical challenges and continuously improving my skills. I’m driven to contribute to innovative game projects and help bring creative visions to life.
+I am **Boyko Georgiev**, a student at **Breda University of Applied Sciences** with a focus on **gameplay** and **tools programming**. I enjoy creating systems that enhance gameplay experiences and building tools to streamline game development. With a strong foundation in game programming principles, I’m passionate about **solving technical challenges** and continuously improving my skills. I’m driven to **contribute** to innovative game projects and help bring creative visions to life.
 
-I have experience with Unreal Engine and Unity, as well as working on custom engines.
+I have experience with **Unreal Engine** and **Unity**, as well as working on **custom engines**.
 
 My hobbies include playing bass, Dungeons & Dragons, board games, and computer games.
 
-I'm open for internships starting September 2025.
+**I'm open for internships starting September 2025.**
 
 <!--
 **Boyko03/Boyko03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
